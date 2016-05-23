@@ -1,0 +1,8 @@
+vi:
+  home:
+    title: 'Học trường nào đây'
+  menu:
+    universities: 'Đại học'
+    colleges: 'Cao đẳng'
+    international_schools: 'Trường quốc tế'
+    about: 'About'
